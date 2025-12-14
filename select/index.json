@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "因果オウホウ",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-14T14:23:44.022682Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "因果オウホウ",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_因果オウホウ_NEE.txt"
+    }
+  ]
+}
